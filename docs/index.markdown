@@ -1,1 +1,1 @@
-{% include_relative content.html %}
+{% include content.html %}
