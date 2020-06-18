@@ -23,9 +23,8 @@ email: tahera.moni@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The SenSys 2020 Doctoral Colloquium provides an opportunity for doctoral students to explore and develop their research interests in an interdisciplinary workshop, under the guidance of a panel of distinguished researchers.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://taheramoni.github.io/sensysphdforum.io/" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  "taheramoni"
 
 # Build settings
 theme: minima
