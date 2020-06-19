@@ -23,6 +23,7 @@ author: Tahera Hossain
 email: tahera.moni@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/sensysphdforum.io" # the subpath of your site, e.g. /blog
+# baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://taheramoni.github.io/sensysphdforum.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  "taheramoni"
 
